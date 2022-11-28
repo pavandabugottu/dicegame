@@ -14,6 +14,6 @@ function rollDices() {
         document.querySelector(".container h1").innerHTML = "Dabbu Wins!";
     }
     else {
-        document.querySelector(".container h1").innerHTML = "Pillu Wins!";
+        document.querySelector(".container h1").innerHTML = "Rest of the World Wins!";
     }
 }
